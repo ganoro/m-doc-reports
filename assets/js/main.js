@@ -1,11 +1,11 @@
 require.config({
 	paths : {
-		'jquery' : '../lib/require-jquery',
-		'mobile' : '../lib/mobile',
-		'underscore' : '../lib/underscore',
-		'backbone' : '../lib/backbone',
-		'moment' : '../lib/moment',
-		'swipeButton' : '../lib/jquery.swipeButton-1.2'
+		'jquery' : 'lib/require-jquery',
+		'mobile' : 'lib/mobile',
+		'underscore' : 'lib/underscore',
+		'backbone' : 'lib/backbone',
+		'moment' : 'lib/moment',
+		'swipeButton' : 'lib/jquery.swipeButton-1.2'
 	}
 
 });
